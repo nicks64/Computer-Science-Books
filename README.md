@@ -176,5 +176,3 @@ This collection covers the full vertical stack of modern intelligent systems wit
 By completing this structured study roadmap, you’ll gain a **full-stack understanding** of how to design, build, optimize, and deploy modern deep learning systems—from transistor logic all the way to large-scale intelligent applications.
 
 ---
-
-> *“Understand the stack. Own the system. Master intelligence.”*
